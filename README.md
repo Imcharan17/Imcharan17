@@ -2,9 +2,11 @@
 
 # 👋 Hi, I'm Dubaguntla Charan Sai
 
-### 💻 Java Full Stack Developer | 🚀 React Developer | 🌱 Spring Boot | 🤖 AI Enthusiast
+### 💻 Java Full Stack Developer • ⚛️ React Developer • 🌱 Spring Boot • 🤖 AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;AI+Enthusiast;Always+Learning+New+Technologies" />
+
+<img src="https://komarev.com/ghpvc/?username=Imcharan17&style=for-the-badge&color=0e75b6" />
 
 </div>
 
@@ -12,20 +14,11 @@
 
 # 🚀 About Me
 
-✨ Passionate Full Stack Developer
-
-💡 Love building scalable applications
-
-🌱 Currently Learning
-
-- ☕ Spring Boot
-- ⚛️ React.js
-- ☁ AWS
-- 🏗 Microservices
-
-🎯 Goal
-
-Become a Software Engineer at a top Product-Based Company.
+- 💻 Full Stack Developer passionate about building scalable web applications.
+- 🌱 Currently learning **Spring Boot, React.js, AWS, and Microservices**.
+- 🤖 Interested in **AI, Machine Learning, and Real-Time Systems**.
+- 🎯 Goal: Become a Software Engineer at a top product-based company.
+- 📍 Hyderabad, India
 
 ---
 
@@ -33,20 +26,20 @@ Become a Software Engineer at a top Product-Based Company.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<a href="https://YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:dubaguntlacharan123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Imcharan17">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -55,118 +48,73 @@ Become a Software Engineer at a top Product-Based Company.
 
 # 💻 Tech Stack
 
-## 👨‍💻 Languages
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+### Backend
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-red?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
-
----
-
-## 🎨 Frontend
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-
-![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)
-
----
-
-## ⚙ Backend
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
-
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
-
-![REST API](https://img.shields.io/badge/REST_API-red?style=for-the-badge)
-
----
-
-## 🗄 Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-
----
-
-## 🛠 Tools
-
-Git • GitHub • Postman • VS Code • IntelliJ IDEA • Eclipse
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
-🚌 **Bus Management System**
+### 🚌 Bus Management System
+- 📍 Real-time bus tracking
+- 🗺 Google Maps API
+- 🔐 Firebase Authentication
 
-📍 Real-time Bus Tracking
+### 🌾 CropCare Portal
+- 🤖 AI-powered crop disease detection
+- ☕ Spring Boot + React.js
+- 🗄 MySQL
 
-🗺 Google Maps API
-
-🔥 Firebase Authentication
-
----
-
-🌾 **CropCare Portal**
-
-🤖 AI Disease Detection
-
-☕ Spring Boot
-
-⚛ React.js
-
-🗄 MySQL
+### 🤟 Sign Language Detection
+- 🧠 TensorFlow
+- 👁 OpenCV
+- 🤖 MediaPipe
+- 🔊 Text-to-Speech
 
 ---
 
-🤟 **Sign Language Detection**
+# 🏆 Achievements
 
-🧠 TensorFlow
-
-👁 OpenCV
-
-🤖 MediaPipe
-
-🔊 Text To Speech
+- ⭐ HackerRank 4-Star SQL
+- 🌍 Global Rank 5456 – TCS CodeVita Season 13
+- 🎓 Software Engineering Job Simulation – J.P. Morgan Chase (Forage)
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Imcharan17&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Imcharan17&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Imcharan17&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Imcharan17&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imcharan17&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Imcharan17&theme=tokyonight&margin-w=15"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imcharan17&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -174,27 +122,21 @@ Git • GitHub • Postman • VS Code • IntelliJ IDEA • Eclipse
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imcharan17&theme=tokyo-night"/>
-
 </p>
 
 ---
 
-# ⚡ Fun Fact
+# 💬 Quote
 
-💻 I turn ☕ into Code.
-
-🚀 Learning never stops.
-
-🌍 Open to Full Stack Developer Opportunities.
+> *"First, solve the problem. Then, write the code."* – John Johnson
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for Visiting ⭐
+### ⭐ Thanks for Visiting!
 
-<img src="https://komarev.com/ghpvc/?username=Imcharan17&label=Profile+Views&color=blue&style=for-the-badge"/>
+💙 Always open to collaboration and learning.
 
 </div>
