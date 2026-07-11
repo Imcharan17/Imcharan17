@@ -96,6 +96,13 @@
 - 🤖 MediaPipe
 - 🔊 Text-to-Speech
 
+### 🤖 AI Chatbot
+- 🧠 Gemini AI API
+- ⚡ JavaScript
+- 🌐 HTML & CSS
+- 🔗 Fetch API
+- 💬 Natural Language Processing
+
 ---
 
 # 🏆 Achievements
