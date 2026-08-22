@@ -130,7 +130,7 @@
 * ⚡ JavaScript
 * 🎨 HTML & CSS
 
-### 🧾 [Invoice Generator](YOUR_INVOICE_GENERATOR_DEPLOY_LINK)
+### 🧾 [Invoice Generator](https://invoice-generator-react-lime.vercel.app/)
 
 * ⚛️ React.js
 * 🧾 Dynamic invoice generation
