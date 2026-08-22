@@ -91,11 +91,21 @@
 * 🗺 Google Maps API
 * 🔐 Firebase Authentication
 
-### 🌾 CropCare Portal
+### 🌾 [CropCare Portal](https://crop-care-frontend-568o.onrender.com/)
 
 * 🤖 AI-powered crop disease detection
-* ☕ Spring Boot + React.js
-* 🗄 MySQL
+* ☕ **Java + Spring Boot**
+* ⚛️ **React.js + JavaScript**
+* 🗄 **MySQL**
+* 🔐 **Spring Security + JWT**
+* 🌐 **REST APIs**
+* 🛠️ **Spring Data JPA + Hibernate**
+* 📦 **Maven**
+* 🎨 **HTML + CSS**
+* 📊 **Dashboard Analytics**
+* 🎫 **Support Ticket Management**
+* 📧 **Email Notifications**
+* 📝 **Audit Logs**
 
 ### 🤟 Sign Language Detection
 
