@@ -122,7 +122,7 @@
 * 🔗 Fetch API
 * 💬 Natural Language Processing
 
-### ✈️ [Travel Planner](YOUR_TRAVEL_PLANNER_DEPLOY_LINK)
+### ✈️ [Travel Planner](https://imcharan17.github.io/Travel_Planer/)
 
 * 🌍 Travel planning website
 * 🗺 Explore and organize travel destinations
