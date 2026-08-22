@@ -85,7 +85,7 @@
 
 # 🚀 Featured Projects
 
-### 🚌 Bus Management System
+### 🚌 [Bus Management System](https://imcharan17.github.io/E-Bus-managment/)
 
 * 📍 Real-time bus tracking
 * 🗺 Google Maps API
@@ -114,7 +114,7 @@
 * 🤖 MediaPipe
 * 🔊 Text-to-Speech
 
-### 🤖 AI Chatbot
+### 🤖 [AI Chatbot](https://imcharan17.github.io/ai-chatbot/)
 
 * 🧠 Gemini AI API
 * ⚡ JavaScript
