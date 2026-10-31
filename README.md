@@ -106,14 +106,13 @@
 * 🎫 **Support Ticket Management**
 * 📧 **Email Notifications**
 * 📝 **Audit Logs**
-### 🎙️ [SpeaksAI – AI English Speaking Platform](https://github.com/Imcharan17/SpeaksAI)
+### 🎙️ [SpeaksAI – AI English Speaking Platform](https://english-speaking-app-i1f5.onrender.com/)
 
 * 🗣️ AI-powered English speaking practice platform
 * 💬 Designed to help users improve English communication skills
 * 🤖 AI-assisted learning and interaction
 * 🎯 Focus on speaking practice and communication improvement
 * 🌐 Interactive web application
-* 🚀 GitHub Repository: [SpeaksAI](https://english-speaking-app-i1f5.onrender.com/)
 
 ### 🤟 Sign Language Detection
 
